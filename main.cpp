@@ -92,6 +92,7 @@ int main(){
 
     cout<<"Matrix 3:"<<endl;
     print_matrix(matrix3, r3, c3);
+    // La matriz resultante está mal, puedes probar aquí: http://www.bluebit.gr/matrix-calculator/matrix_multiplication.aspx
 
     return 0;
 }
